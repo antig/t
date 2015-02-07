@@ -14,3 +14,10 @@ git command:
 	git reset HEAD <file>
 	git checkout <file>
 	
+	git brance #detect brance 
+	git brance <brance name> #create a brance
+	git checkout <brance name> #切换brance
+	git checkout -b <brance name> #create & switch brance
+	git merge <brance name>
+
+
