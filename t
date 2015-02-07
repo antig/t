@@ -11,4 +11,6 @@ git command:
 	git reflog --oneline
 	git status
 
-
+	git reset HEAD <file>
+	git checkout <file>
+	
