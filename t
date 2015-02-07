@@ -7,3 +7,8 @@ git command:
 	git reset --hard HEAD^
 	git reset --hard <hash value>
 
+	git log --pretty=oneline
+	git reflog --oneline
+	git status
+
+
